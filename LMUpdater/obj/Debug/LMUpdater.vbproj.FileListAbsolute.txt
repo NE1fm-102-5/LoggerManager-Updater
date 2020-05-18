@@ -1,0 +1,12 @@
+C:\Users\harry\source\repos\LMUpdater\LMUpdater\bin\Debug\LMUpdater.exe.config
+C:\Users\harry\source\repos\LMUpdater\LMUpdater\bin\Debug\LMUpdater.exe
+C:\Users\harry\source\repos\LMUpdater\LMUpdater\bin\Debug\LMUpdater.pdb
+C:\Users\harry\source\repos\LMUpdater\LMUpdater\bin\Debug\LMUpdater.xml
+C:\Users\harry\source\repos\LMUpdater\LMUpdater\obj\Debug\LMUpdater.vbprojResolveAssemblyReference.cache
+C:\Users\harry\source\repos\LMUpdater\LMUpdater\obj\Debug\LMUpdater.Form1.resources
+C:\Users\harry\source\repos\LMUpdater\LMUpdater\obj\Debug\LMUpdater.Resources.resources
+C:\Users\harry\source\repos\LMUpdater\LMUpdater\obj\Debug\LMUpdater.vbproj.GenerateResource.Cache
+C:\Users\harry\source\repos\LMUpdater\LMUpdater\obj\Debug\LMUpdater.vbproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\LMUpdater\LMUpdater\obj\Debug\LMUpdater.exe
+C:\Users\harry\source\repos\LMUpdater\LMUpdater\obj\Debug\LMUpdater.xml
+C:\Users\harry\source\repos\LMUpdater\LMUpdater\obj\Debug\LMUpdater.pdb
